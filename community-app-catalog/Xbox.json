@@ -534,6 +534,38 @@
         "rexglue"
       ],
       "catalogId": "qcat_67b2b35e-3db2-482f-a9a0-e79aa3eea50e"
+    },
+    {
+      "name": "Peter Jackson's King Kong",
+      "project": "King Kong PC Port",
+      "repository": "TekRantGaming/king-kong-recompiled",
+      "folderName": "PeterJacksonsKingKong-KingKongPCPort",
+      "appIconUrl": "https://raw.githubusercontent.com/TekRantGaming/king-kong-recompiled/main/docs/images/icon.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "rexglue",
+        "king kong",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Outpost Kaloki X",
+      "project": "Outpost Kaloki X PC Port",
+      "repository": "TekRantGaming/outpost-kaloki-x-recompiled",
+      "folderName": "OutpostKalokiX-OutpostKalokiXPCPort",
+      "tags": [
+        "recomp",
+        "x360",
+        "rexglue",
+        "outpost kaloki",
+        "xbox",
+        "xbox 360",
+        "recompilation",
+        "xbla"
+      ]
     }
   ]
 }

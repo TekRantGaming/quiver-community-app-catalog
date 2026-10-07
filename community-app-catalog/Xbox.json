@@ -519,6 +519,23 @@
       ]
     },
     {
+      "name": "Earthworm Jim HD",
+      "project": "Earthworm Jim HD PC Port",
+      "repository": "TekRantGaming/earthworm-jim-hd-recompiled",
+      "folderName": "EarthwormJimHD-EarthwormJimHDPCPort",
+      "appIconUrl": "https://raw.githubusercontent.com/TekRantGaming/earthworm-jim-hd-recompiled/main/docs/images/icon.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "rexglue",
+        "earthworm jim",
+        "xbox",
+        "xbox 360",
+        "recompilation",
+        "xbla"
+      ]
+    },
+    {
       "name": "LEGO Dimensions",
       "project": "DimensionsRecomp",
       "repository": "NeverCookFirst/DimensionsRecomp",
